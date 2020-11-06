@@ -2,7 +2,7 @@
 
 First and foremost, Welcome! :tada: Willkommen! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
 
-Thank you for visiting the STEMM Role Models app project repository.
+Thank you for visiting this project repository.
 
 This document (the README file) is a hub to give you some information about the project.
 
