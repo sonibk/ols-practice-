@@ -34,9 +34,9 @@ We are ols-2 project leads ( Jelioth Muthoni, Brenda Muthoni and Hariet Natabona
  ## Contact us
  
 + contact us using github  or email
-        +  Brenda - @sonibk ... brendaksoni90@gmail.com
-        +  Harriet - @Natty_2012 ...nattybona2012@gmail.com
-        +  Jelioth - @jelioth ... jeliothmuthoni@gmail.com
+        +  Brenda @sonibk ... brendaksoni90@gmail.com
+        +  Harriet @Natty_2012 ...nattybona2012@gmail.com
+        +  Jelioth  @jelioth ... jeliothmuthoni@gmail.com
     
  
  
