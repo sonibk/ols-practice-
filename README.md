@@ -1,6 +1,6 @@
 # Building and leveraging on a COVID- 19 open database for immunology to promote awareness  of open science communication.
 
-First and foremost, Welcome! :tada: Willkommen! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
+First and foremost, Welcome! :tada: Karibu! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
 
 Thank you for visiting this project repository.
 
