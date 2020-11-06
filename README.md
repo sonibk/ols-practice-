@@ -27,7 +27,7 @@ We are ols-2 project leads ( Jelioth Muthoni, Brenda Muthoni and Hariet Natabona
 
 ## what do we need 
  > you!!! in whatever way you can help. 
- we need contributors who can review our progress and make comments or give feedback in our steps of debeloping a database and 
+ We need contributors who can review our progress and make comments or give feedback in our steps of developing a database and 
  Expertise in database design and maintainance.
  > with the aim of encouraging open science communication we hope that you could visit our database once it exixts.
  
